@@ -1,2 +1,2 @@
 # Chatwork2Trello
-Insert task to Trello from Chatwork
+Insert task to Trello from Chatwork tasks
